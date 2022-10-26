@@ -1,4 +1,11 @@
-### Hi 👋 My name is Daniel Peñaloza
+### Hi there 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pholluxion&hide=contribs&theme=dark&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pholluxion&layout=compact)](https://github.com/Pholluxion/coco)
+I'm a system engineer 🌆
+
+- 🔭 I’m currently working 
+- 🧑‍💻 I’m looking to collaborate on open source projects
+- 💬 Ask me about [Flutter](https://flutter.dev) and [Dart](https://dart.dev).
+
+### Github Stats
+
+[![Pholluxion Github Stats](https://github-readme-stats.vercel.app/api?username=Pholluxion&count_private=true&theme=default&show_icons=true)](https://github.com/Pholluxion)
